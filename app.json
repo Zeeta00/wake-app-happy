@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2f3987fd-6e12-4ade-8009-cd993c4a6b0e"
+      }
+    },
+    "owner": "legoli"
   }
 }
